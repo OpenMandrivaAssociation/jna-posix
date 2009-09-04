@@ -34,7 +34,7 @@ Name:           jna-posix
 Summary:        Java POSIX emulation layer
 Url:            https://svn.codehaus.org/jruby-contrib/trunk/jna-posix/
 Version:        0.6
-Release:        %mkrel 2.0.1
+Release:        %mkrel 2.0.2
 Epoch:          0
 License:        CPL or GPL or LGPL
 Group:          Development/Java
