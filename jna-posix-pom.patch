@@ -1,0 +1,17 @@
+--- pom.xml.sav	2008-05-28 12:17:41.000000000 +0200
++++ pom.xml	2008-05-28 12:17:55.000000000 +0200
+@@ -98,12 +98,14 @@
+   <build>
+     <sourceDirectory>src</sourceDirectory>
+     <testSourceDirectory>test</testSourceDirectory>
++<!--
+     <extensions>
+       <extension>
+         <groupId>org.apache.maven.wagon</groupId>
+         <artifactId>wagon-webdav</artifactId>
+       </extension>
+     </extensions>
++-->
+     <plugins>
+       <plugin>
+         <artifactId>maven-compiler-plugin</artifactId>
